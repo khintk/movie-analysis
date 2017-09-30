@@ -26,6 +26,6 @@ and for data we couldn’t locate, the cells were filled with 0. The data does n
 We built our program with PyCharm. To see the result, you can run MovieAnalysisKhinCourtneyFinal.py file. This program requires a Python framework to run.
 
 ## Acknowledgments
-		We would like to acknowledge our Professor Shiled Sen helping us with the project.
+We would like to acknowledge our Professor Shiled Sen helping us with the project.
 
  Khin Kyaw & Courtney
