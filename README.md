@@ -6,7 +6,6 @@ The goal of our project was to create an algorithm using the k-means clustering 
 We hoped that by clustering the movies, patterns would emerge which would show us if there were any specific types of movies that were more successful abroad.
 Also, we predicted that we would see differing preferences of movie genre throughout the different regions.
 
-
 ## What is K-Means?
 K-means is an algorithm which is used to group sets of data into a specified number of clusters.
 The algorithm starts by taking in a dataset and randomly grouping the data into a certain number of groups (ie. clusters.)
@@ -20,7 +19,7 @@ By the end of the algorithm, all points in each cluster have the shortest distan
 We started by researching how k-means algorithms worked, and the various ways it could be implemented.
 Next, we began gathering our movie data and pseudo-coding our algorithm. In order to see if certain regions preferred a specific type of movie we split the international market place by continents
 and then collected the gross profit from each continent of the overall top 10 movies in the world over the past 10 years. Most of the data collected is from the International Movie Database (ie. IMBd),
-and for data we couldn’t locate, the cells were filled with 0. *The data does not include Antarctica because of the lack of box office reports. Also, the total gross reported for North America does not include the United States. *
+and for data we couldn’t locate, the cells were filled with 0. The data does not include Antarctica because of the lack of box office reports. Also, the total gross reported for North America does not include the United States.
 
 
 ## Running the program
